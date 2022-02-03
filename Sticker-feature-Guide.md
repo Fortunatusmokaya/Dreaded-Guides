@@ -1,4 +1,4 @@
-# 💫Sticker
+# 💫Dreaded Sticker conversion Guide
 
 💫Sticker command is now updated. You can use
 sticker --number to get sticker in different qualities.<br>
@@ -24,3 +24,4 @@ Also,
 
 here --love --happy organizes the sticker into the Whatsapp's inbuilt emoji pack
 ( as per the photo :)
+# ENJOY 💎
