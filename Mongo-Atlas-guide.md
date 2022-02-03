@@ -1,5 +1,5 @@
 ## 💚️ Mongo Atlas Guide 
-## Note that you must be careful not to get a wrong Mongodb URI otherwise bot will not build 
+## Note that you MUST be careful not to get a wrong Mongodb URI otherwise bot will not build 
 -----------------
 1. Go to [MongoDB cloud atlas](https://www.mongodb.com/cloud/atlas)
 
