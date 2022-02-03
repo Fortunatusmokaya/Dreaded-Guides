@@ -1,4 +1,4 @@
-# Chitoge Self-hosting Guide
+# Dreaded bot Self-hosting Guide
 
 
 ## ⛵ Prerequisites
